@@ -91,7 +91,7 @@ html, body{
 
 
 /* 
-gold:#FF9318
+gold:#db543e
 b1:#1B1B1B
 b2:#2F2F2F
 b2:#242424
@@ -122,11 +122,11 @@ b2:#242424
     background-repeat: no-repeat;
 }
 a {
-    color: #FF9318;
+    color: #db543e;
     text-decoration: none;
 }
 a:hover {
-    color: #FBA301;
+    color: #db543e;
     text-decoration: none;
 }
 .btn-default {
@@ -138,8 +138,8 @@ a:hover {
 	font-weight:bold;
 }
 .btn-default:hover {
-    background-color: #FF9318;
-    border-color: #FF9318;
+    background-color: #db543e;
+    border-color: #db543e;
 	color:#fff;
 }
 .bg-grey{
@@ -166,18 +166,18 @@ a:hover {
 }
 .page-title .lead{
 	font-size: 50px;
-    color: #FF9318;
+    color: #db543e;
     line-height: 70px;
 	font-weight:900;
 }
 .page-title .lead2{
 	font-size: 30px;
-    color: #FF9318;
+    color: #db543e;
     line-height: 42px;
     font-weight: 900;
 }
 .page-title .sublead{
-	font-size: 14px;
+	font-size: 18px;
     line-height: 20px;
 }
 .bg-grey{
@@ -224,15 +224,15 @@ p {
 .navbar-main .navbar-nav > li > a:hover,
 .navbar-main .navbar-nav > li > a:focus,
 .navbar-main .navbar-nav > li > a:active{
-	color:#FF9318;
+	color:#db543e;
 	background-color:transparent;
 }
 .navbar-main .navbar-nav > li.active a{
-	color:#FF9318;
+	color:#db543e;
 	background-color:transparent;
 }
 .navbar-toggle .icon-bar {
-    background-color: #FF9318;
+    background-color: #db543e;
 }
 .top-sosmed{
 	margin-top:30px;
@@ -244,7 +244,7 @@ p {
 	width:30px;
 	height:30px;
 	text-align:center;
-	color:#FBA301;
+	color:#db543e;
 	display: inline-table;
 	padding-top: 7px;
     border-radius: 50%;
@@ -313,7 +313,7 @@ p {
     top: 50%;
     z-index: 5;
     display: inline-block;
-	color:#FBA301;
+	color:#db543e;
 }
 .carousel-control .fa-chevron-right {
     right: 50%;
@@ -342,7 +342,7 @@ p {
 }
 .caption-desc{
 	text-align:right;
-	color:#FBA301;
+	color:#db543e;
 	margin-bottom: 40px;
 	font-size: 30px;
     line-height: 42px;
@@ -363,8 +363,8 @@ p {
 	color:#333;
 }
 .carousel-caption .btn-default{
-    background-color: #FBA301;
-    border-color: #FBA301;
+    background-color: #db543e;
+    border-color: #db543e;
     color: #fff;
     padding: 12px 35px;
     font-weight: bold;
@@ -376,14 +376,14 @@ p {
 }
 .carousel-caption .btn-default:hover{
     background-color: transparent;
-    border-color: #FBA301;
-	color:#FBA301;
+    border-color: #db543e;
+	color:#db543e;
 }
 .carousel-indicators .active {
     width: 15px;
     height: 15px;
     margin: 0 7px;
-    background-color: #FBA301;
+    background-color: #db543e;
 }
 .carousel-indicators li {
     display: inline-block;
@@ -488,7 +488,7 @@ p {
 	position:absolute;
 	bottom: 50px;
 	left:20px;
-	color: #FF9318;
+	color: #db543e;
     font-size: 30px;
 	font-weight: 400;
 	line-height: 30px;
@@ -519,7 +519,7 @@ p {
     transform: scale(1);
 }
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
-	background: #FF9318;
+	background: #db543e;
 }
 .owl-pagination{
 	margin-top:40px;
@@ -558,7 +558,7 @@ p {
 	margin:0 auto;
 }
 .offers-item:hover .icon{
-	background-color:#FBA301;
+	background-color:#db543e;
 }
 .offers-item .icon .fa{
 	font-size:35px;
@@ -571,7 +571,7 @@ p {
 }
 .offers-item .ket h4{
 	font-size:24px;
-	color:#FF9318;
+	color:#db543e;
 	font-weight:400;
 	margin-bottom:30px;
 }
@@ -620,11 +620,11 @@ p {
 	margin-left:0px;
 }
 .event-item .event-left{
-	border:2px solid #FF9318;
+	border:2px solid #db543e;
 	padding: 2px;
     text-align: center;
     font-size: 30px;
-    color: #FF9318;
+    color: #db543e;
 	line-height: 42px;
 	min-width:120px;
 	margin-right:20px;
@@ -698,7 +698,7 @@ p {
 	-webkit-transition: all ease .25s;
 	        transition: all ease .25s;
 	width: 100%;
-	color:#FBA301;
+	color:#db543e;
 }
 .w-item a .project-info .project-icon .fa {
 	font-size:50px;
@@ -736,7 +736,7 @@ p {
 }
 .video-desc .video-heading{
 	font-size: 30px;
-    color: #FF9318;
+    color: #db543e;
     line-height: 42px;
 	
 }
@@ -745,7 +745,7 @@ p {
 	height:20px;
 	display:block;
 	content:'';
-    border-top:4px solid #FF9318;
+    border-top:4px solid #db543e;
 	margin-top:10px;
 	margin-bottom:20px;
 }
@@ -808,7 +808,7 @@ p {
     border-color: #a94442;
 }
 .shake .btn-default:hover {
-	background-color: #FBA301;
+	background-color: #db543e;
 }
 
 
@@ -831,7 +831,7 @@ p {
 	width:30px;
 	height:30px;
 	text-align:center;
-	color:#FF9318;
+	color:#db543e;
 	display: inline-table;
 	padding-top: 6px;
     border-radius: 50%;
